@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.2092
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experiment With Controls", "Experiment With Controls\Experiment With Controls.csproj", "{BAA0B2BB-1C42-4533-BECD-EA3C3CD27DF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentWithControls", "Experiment With Controls\ExperimentWithControls.csproj", "{BAA0B2BB-1C42-4533-BECD-EA3C3CD27DF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
